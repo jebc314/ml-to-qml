@@ -1,4 +1,16 @@
 # ml-to-qml
+
+### Updates by Jeb Cui
+Modified code to explore Shapley values for the VQC. Newly trained model at trained_model.model.
+Bootstrap scores saved in bootstrap_scores.csv
+Shapley values saved in vqc_shap.npy and vqc_shape_values.npy.
+
+Model training code in optimal-ansatz-optimizer_iris.ipynb. Explainability results in Feature_importance_and_Explainability.ipynb.
+
+Created Python 3.9.13 conda environment and installed the packages in requirements.txt.
+
+### Existing work
+
 Final year project, exploring the field of quantum machine learning.
 
 - [Project Overview](#project-overview)
